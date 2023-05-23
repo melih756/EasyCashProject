@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd3d6c49-28f2-4e92-939f-e7b3adeb8373": {
+      "ProjectGuid": "dd3d6c49-28f2-4e92-939f-e7b3adeb8373",
+      "DisplayName": "EasyCashIdentityProject.DataAccessLayer",
+      "ColorIndex": 0
+    },
+    "25cefc11-c382-4073-81f2-52fb34bca4a6": {
+      "ProjectGuid": "25cefc11-c382-4073-81f2-52fb34bca4a6",
+      "DisplayName": "EasyCashIdentityProject.EntityLayer",
+      "ColorIndex": 1
+    },
+    "f2215e77-c4f8-4c81-bdcd-5980f14c0d68": {
+      "ProjectGuid": "f2215e77-c4f8-4c81-bdcd-5980f14c0d68",
+      "DisplayName": "EasyCashIdentityProject.PresentationLayer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

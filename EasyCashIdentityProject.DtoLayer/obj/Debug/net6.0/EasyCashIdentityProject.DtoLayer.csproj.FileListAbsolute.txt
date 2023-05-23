@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.deps.json
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.runtimeconfig.json
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.dll
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\ref\EasyCashIdentityProject.DtoLayer.dll
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.pdb
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.AssemblyInfo.cs
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.dll
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.DtoLayer.dll
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.pdb
+C:\Users\ACER\Desktop\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.genruntimeconfig.cache
