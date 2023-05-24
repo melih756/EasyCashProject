@@ -12,7 +12,7 @@ namespace EasyCashIdentityProject.PresentationLayer.Controllers
         {
             _userManager = userManager;
         }
-        [HttpGet]
+        [HttpGet] //register->confirm sayfası  veriler confirm sayfasına taşınacak 
         public IActionResult Index()
         {
             var value = TempData["Mail"];
@@ -22,11 +22,13 @@ namespace EasyCashIdentityProject.PresentationLayer.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Index(ConfirmMailViewModel confirmMailViewModel)
+        public async Task<IActionResult> Index(ConfirmMailViewModel confirmMailViewModel) //veriler taşınıyor 
         {
             var user = await _userManager.FindByEmailAsync(confirmMailViewModel.Mail);
             if (user.ConfirmCode == confirmMailViewModel.ConfirmCode)
             {
+                user.EmailConfirmed = true; //email confirmed işlemi uygulandı 
+                await _userManager.UpdateAsync(user);//güncelleme uygulandı 
                 return RedirectToAction("Index", "MyProfile");
                 //email confirmed kısmı update edilip true'ya dönecek
             }
